@@ -29,5 +29,3 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-
-Hola :D
